@@ -306,9 +306,7 @@ What Research Says
 
 Research has found that e.Impressions are often dependent on information disclosed. For example, positive, negative, and private Facebook profiles can affect e.Impression in different ways.
 
-124 participants assumed role of hiring manager
-read two candidates’ Facebook profiles and professionally equivalent resumés (i.e., these contained similar experience and education)
-profiles contained negative (e.g., pictures of drinking at parties), positive or private information
+124 participants assumed role of hiring manager read two candidates’ Facebook profiles and professionally equivalent resumés (i.e., these contained similar experience and education) profiles contained negative (e.g., pictures of drinking at parties), positive or private information
 
 The participants then rated candidates based on their pre-interview impression- what they thought of the candidates. Impressions and the likelihood that they would be hired were lower when candidates had negative information in their profiles.
 
@@ -444,3 +442,369 @@ Visual content is crucial for creating an online impression (Ellison, Heino & Gi
 Research by Carmon (2010) highlights how there is an inconsistency between our offline and online selves, depending on how we believe we should be viewed. Results showed that girls who described themselves as "smart" or "kind" offline, described themselves as "fun," "funny," or "social" online. Sadly, girls with low self-esteem were also more likely to describe themselves as “sexy” and “crazy” online. The diverging audiences in this case, seem to motivate young girls to portray themselves in seemingly opposite ways.
 
 Another study investigated how truthful information as online. They found that 56% of teens post untruthful information. One common lie was about age, whereby they lied about being older than they actually were. Interestingly, this study found that males for the most lied more often online (Lenhart & Madden, 2007).
+
+## Narcissism
+
+Narcissism came from Greek myth and was named after the son of a river God, his name was Narcissus. Narcissus was a very attractive young man who set out looking for love. He eventually comes to sees his own reflection in the water and falls so in love with his own image that he gazes at it until he dies. The narcissus is also a flower that resembles a daffodil and grows along the edge of rivers and lakes. This flower is delicate and beautiful, just like Narcissus himself (no author, 2017).
+
+While Narcissist Personality Disorder (NPD) can have some very serious and negative outcomes, subclinical narcissism is viewed as a lesser degree of clinical narcissism. While this type of narcissism is not detrimental enough for clinical diagnosis, it can still be somewhat destructive to the individual and others around them.
+
+Subclinical narcissists have an inflated view of themselves, believe they are unique and special, and expect special treatment from others (but own nothing in return) (American Psychiatric Association, 2000). Narcissists are apt to take what others will give, but are less likely to give in return. Narcissists have a strong desire for social contact, but need others for attention and admiration. Because these types of individuals can’t regulate their own self-worth to the same degree, they rely on external sources for affirmation (Campbell, Rudich Sedikides, 2002).
+
+Here is a list of tendencies and behaviours that characterize the narcissist personality (Buss & Chiodo, 1991; Raskin & Terry, 1988; Twenge & Campbell, 2009):
+
+    Engage in exhibitionism (showing off) and attention-seeking behaviour
+    Dominance and competiveness is the focus in social settings
+    They think they are more physically attractive and intelligent than others
+    Would rather by admired than liked
+    Brag about achievements
+    Value material goods that display status
+    Seek out trophy partners
+    Talk a lot about themselves
+    Surround themselves by those who look up to them (entourage)
+
+Subclinical narcissism can have short-term advantages. For example, these types of people may experience greater job opportunities and dating opportunities in the short term due to their ability to reflect a highly confident self.
+
+There are some serious long-term disadvantages however. Eventually these people are viewed negatively, as they come to be seen as arrogant or hostile. Oftentimes this personality type can also be perceived as entitled and obnoxious (Spain, 2014). The initial attraction eventually wears off and people grow tired of the narcissist.
+
+### Narcissism vs High Self Esteem
+
+Narcissists:
+    - Lack deep connection to others
+    - Have a sense of self is driven by fear of failure or weakness
+
+People with high-esteem
+    - Value close relationships
+    - Have a sense of self-worth is based on actual accomplishments
+
+### The Narcissism Epidemic
+
+Meta analyses of narcissism, which look at a large number of studies, (Konrath, O’Brien & Hsing, 2011; Twenge, Konrath, Foster, Campbell & Bushman, 2008), indicate that there is a(n):
+
+    1. Increase in narcissism
+    2. Decrease in empathy (sympathy for the misfortunes of others)
+
+It is worthy of note that these findings also revealed that this trend has accelerated since 2000. Remember back to the lesson on the history of social media, and the emergence of Web 2.0. This timeframe coincides nicely.
+
+A very eye opening study was conducted by surveying 37,000 US college students in between 1980 and 2008 (Twenge & Campbell, 2009). Researchers found that narcissism increased to the same degree as obesity, and that this rise in narcissism was faster in the 2000s than any other decade. For example, in data from 2006, 1 out of 4 college students reported narcissistic traits. Furthermore, 1 out of 10 (in their 20s) and 1 out of 16 (all ages) reported having experienced symptoms of the Narcissistic Personality Disorder (NPD) or clinical levels of narcissism.
+
+Studies are now showing that there is a generational increase in narcissism and entitlement. Twenge (2014) analyzed trends over time and found that:
+
+    Fewer people now slow down in a school zone
+    Fewer people observe the item limit in a supermarket express lane.
+    More people cut across parking lots to bypass stoplights
+    In 1979, 29% of people failed to stop at a stop sign, in 1996 97% of drivers did not stop at all.
+    In 2002, 74% of high school students admitted to cheating, up from 61% in 1992.
+
+It is apparent that our behaviours and sense of entitlement seems to be changing. Let’s go through a few interesting research studies that further support this idea.
+
+### Materialism and work
+
+In a study comparing attitudes of three generations of high school seniors between 1976 and 2007 (Twenge & Kasser, 2013), researchers found that 62% of students said that lots of money was important in 2007 versus only 48% in 1976-78.
+The same study (Twenge & Kasser, 2013) found that 25% of students said that work was important in 2007 versus 39% in the 1970s.
+
+In an article in Time Magazine published in 2013, young people were asked about attitudes towards work promotion. They found that 40% of “Millenials” (i.e., born between early 1980s and early 2000s) believed they should be promoted every two years, regardless of performance.
+
+These results suggest that entitlement is on the rise (which is part of the narcissist personality), with more value being placed on making money, and less on work ethic and hard work to support salaries and promotions. 
+
+In 2011 DeWall and colleagues published a paper in which they analyzed lyrics in pop music produced between 1980 and 2007. They found that there was an increasing narcissistic focus or, in other words, more egotistical song lyrics. The focus shifted from we, our and us, to me and my. It is suggested that popular song lyrics mirror cultural changes in personality, traits, and motivations, with a shift to a greater absorption with the self.
+
+### Possible Causes
+
+#### Parenting?
+
+According to an article published by People Magazine, children are increasingly being allowed to make their own decisions (Fields-Meyer, 2004). For example, one mother talked about her 10-year-old and how they let him decide whether or not to go to school. Tantrums are another issue. Children pull these fits if they don’t get their way. Another mother tells about when her daughter was 4 years old, “At dinner time if I didn’t make her favorite foods, she would throw a fit, and I would fix it” (Weiss, 41). It seems as though parents are not setting appropriate limits as they did in the past and children are becoming more entitled as time goes on.
+
+#### Are Social Networks At Home To Blame?
+
+I have seen in my years of teaching numerous occasions where parents step in for their adult children to engage with professors, registrars and administrators. It always shocks me when I see a student standing behind their parents at the beginning of the year, and the parent is picking courses for the student.
+
+Parental coddling, including lavish praising, has been put forth as another possible contributor to narcissist tendencies. Nowadays no one fails, and everyone is given a ribbon no matter how well they did. Everyone feels special, unique and capable, even in the face of opposing evidence.
+
+The problem with this approach is that when children are given compliments for a skill they have not mastered or talents they don’t possess it works in the reverse of our intentions. These children end up feeling more insecure (Alvord & Grados, 2005). Perhaps this feeling of insecurity drives them to seek out affirmation from others and the narcissistic ball starts rolling.
+
+#### Social Influence
+
+Our society embraces self-admiration. You can see this exhibited in many facets of society. Look at tattoos for instance.
+
+The following are photos of tattoos people have. Notice the words. In one, it says “self-made” and in another the individual goes so far to have the words “I’m So Fabulous” emblazoned on their chest.
+
+#### Lack of self awareness
+
+It seems like everyone is on their device 24/7 in our society. What is also becoming apparent is the overall lack of self-awareness. For example, talking out loud on cell phones in public or in inappropriate settings (washrooms, classrooms). People cross the street without even looking, because they are too absorbed in their phones. Some go so far as to have full on intimate conversations via face time in public settings (e.g., coffee shops). All of these behaviours seem to point in one direction: Our attitude is that self-importance is more important than almost anything else, including noticing what is going on around us.
+
+#### Personality and technology
+
+We often think of technology nowadays is the main reason why we are seeing this rise in narcissism. While the strength of the relationship is still under consideration as researchers grow to understand how technology and this personality type relate, we do know that social media sites reinforce, and in some cases even create, narcissist tendencies (Buffardi & Campbell, 2008).
+
+Here’s why:
+
+    It’s a convenient outlet for vanity
+    Many sites are designed to encourage self-promotion
+    Users can accumulate large numbers of superficial friendships
+    Users can get the feedback they need and become the centre of attention
+
+### Facebook and Narcissism
+
+Not surprisingly, those who self-promote more online, are also more likely to show narcissistic behaviours (Kaufman, 2011). This makes sense when you think about the motivations of people who self-promote. They want other to focus on them and their information, and also may go to great lengths to attract this attention from others.
+
+Researchers were interested in investigating how personality and self-esteem was related to the types of information users post online (Marshall, Lefringhausen & Ferenczi, 2015). To do this, they surveyed 555 Facebook users’ personality and self-esteem and looked at what they post in their profile.
+
+They found that users with low self-esteem posted more frequent status updates about their current romantic partner. Interestingly, those who bragged about diets, exercise, and accomplishments in their profile, were also more likely to be narcissist. These users also received a greater number of ‘likes’ and comments.
+
+These findings suggest that narcissists’ boasting may be reinforced by desire to self-promote and the attention they garner from users.
+
+### Negative Outcomes of Narcissism
+
+Narcissism poses threats to emotional and psychological health. Because social interactions can be superficial because narcissists use others as a source of self-enhancement and self-promotion, they may fall flat when it comes to developing quality relationships.
+
+    Millennials are interacting all day but almost entirely through a screen… and are deeply anxious about missing out on something better
+    (Time Magazine, 2013)
+
+Have you ever found yourself without the ability to use your phone, or access social media? Did you find that you were anxious and worried about what you might be missing out on? Do you ever wonder if this constant obsession with posting about the self is actually contributing to feelings of loneliness and lack of real social connection?
+
+Statistics on depression show that only 1% to 2% of Americans born before 1915 suffered from major depression. This statistic is unbelievable considering that these people have lived through the Great Depression and two World Wars! Today, however, the rates of depression are now approximately 15% and 20% (with some studies suggesting that this number is closer to 50%).
+
+### Case Study: Revenge of the Insulted Narcissist
+
+James Holmes (Twenge, 2012)
+James Holmes was found guilty of killing 12 people and injuring 70 in a shooting rampage at a Colorado movie theater on July 20, 2012. He snuck out an exit door, propped it open, and returned with weapons and other gear. He also went so far as to set off several gas or smoke canisters. Holmes then opened fire on the theater audience, killing 12 and wounding 70. He will spend the rest of his life in prison for his crimes.
+
+When investigators delved deeper into Holmes’ situation, they discovered that he failed his graduate school oral exams only a month before the shooting. While Holmes graduated from UC Riverside with honours, but his graduate research work was often substandard.
+
+After being told for years he was smart and brilliant, he then found out that he wasn't actually anything special. It is proposed that this threat to his personality drove him to commit these horrendous acts of violence.
+
+### Positive Outcomes of Narcissism
+
+Self-Esteem and Discovery
+
+For one, behaviours associated with this personality type are such that they encourage discovery of information about the self. Narcissists are self-promoting and likely to post more on social media. Consequently, they may also gain insight into who they are because they desperately seek the feedback from others.
+
+Generosity
+
+Because narcissists enjoy when others pay attention to them, they are also more proactive and generous, as long as their behaviours are visible.
+
+You can probably remember the ice bucket challenge or various other fundraisers that have occurred and have been posted on social media. Due to the attention and acclaim received, narcissists are more likely to up the ante of generosity to be seen in a positive light. For example, they might be the first person to start the challenge, post the most messages promoting the event and garner many supporters.
+
+The generosity extends also to donations. Narcissists donate more online if their donations are visible to others. For example, in the case of Go Fund Me, people can create fundraising events and efforts and can reach out to others for support. There is a running bar on the site that shows who has donated and how much has been donated. In situation would encourage a narcissist to self-promote via generous donations.
+
+## Interpersonal relationships
+
+
+
+Friendship is defined as: “State of being friends; friendly relation, or attachment, to a person, or between persons; affection arising from mutual esteem and good will; friendliness” (friends.com, 2017)
+
+Our peers are those that we consider our “social equals” (Lewis & Rosenblum, 1975). For friendships and peer groups to function successfully, there has to be equal status and power among members. The other important ingredient for good friendships is behavioural similarity. When it comes to friendships, “Birds of a feather, flock together”. Similarities help initiative friendships and keep friends connected (Curry & Dunbar, 2013; Rubin, Lynch, Coplan, Rose-Krasnor & Booth, 1994).
+
+As we grow, our peers become very important to us. Because of this, we see a shift around school age whereby children go from spending their leisure time with adults, to friends or peers (Ellis, Rogoff & Cromer, 1981).
+
+Peers offer many insights into the self and the world around us. For example, peers have an impact on:
+
+    Identity, moral judgement
+    Sexuality and love relationships
+    Perceived support and guidance
+    Individuality & autonomy
+    Knowledge of information about world
+    Sense of popularity, status, prestige and acceptance
+    Perceived social competencies
+
+Importantly, our friends (even same sex friends) teach us how to be with close others. They teach us about intimacy, give and take, communication, compassion and caring (Bagwell, Newcomb & Bukowski, 1998; Connolly, Furman & Konarski, 2000). These skills learned from friends prepare us for successful adult love relationships.
+
+### Five types of peer acceptance
+
+There are five types of peer acceptance (Coie, Dodge & Coppotelli, 1982). These types fall on a spectrum of liking and disliking by peers. You may relate to having been in one or more of these types throughout school. 
+    - Popular: Liked by many, disliked by few
+    - rejected: disliked by many, liked by few
+    - Neglected: Not liked or disliked, invisible to peers
+    - COntroversial: liked by many, disliked by few
+    - Average-Status: liked and disliked by a moderate number of people
+
+Being “accepted” by peers has implications for emotional/social adjustment during adolescence and into adulthood. Making/having friends in childhood/adolescence is associated with:
+
+    higher feelings of self-worth in adulthood
+    better self-images in adolescence
+    better school performance
+
+Being rejected on the other hand, is linked to variety of negative outcomes, including:
+
+    delinquency
+    drug abuse
+    dropping out of school
+    aggression
+
+Overall those who are rejected by their peers are at greater risk for psychosocial difficulties during adulthood.
+
+#### School Shootings
+
+    Almost all the killers studied appeared to lack social support, having no one to turn to when in trouble. They reject their peers, and they are in turn rejected -- alone in a psychological sense
+    (Levin & Madfis, 2009)
+
+Levin and Madfis (2009) studied mass murders at schools and concluded that the shooter(s) often experienced a catastrophic loss (e.g., break up or being fired from work). In some cases, parents may play a crucial role in pushing them over the edge (e.g., pressuring them to be successful). 
+
+### Online friendships
+
+Research has found that approximately 20% of users met new friends online, with some portion of those friendships migrating offline or becoming face to face friendships (DiGennano & Dutton, 2007; Wang & Wellman, 2010). Extremely easy to make new friends and maintain old relationships, and more often than not, it’s to connect with those met offline (Subrahmanyam, Reich, Waechter & Espinoza, 2008). For example, adding friends you’ve met to Facebook and then “Facestalking” or getting to know them more via their profile (Young, 2011).
+
+How many friends do you think you can have while still putting in consistent effort and time?
+
+According to Robin Dunbar, the golden number is 150. It is proposed that this is the number of people with whom we can maintain a meaningful relationship, whether in a hunter-gatherer society or on Facebook (Bennett, 2013).
+
+Dunbar (2016) studied the results from 3,375 Facebook users aged 18 to 65 and found that users possessed on average 150 friends online. Out of these, approximately 4 friends were seen as dependable and 14 friends had expressed sympathy during an "emotional crisis“
+
+Online friendships can present many opportunities for emotional support. When it came to feeling connected to friends 83% of users reported feeling more informed about what is happening in friends’ lives, and 69% said they felt social media helped connect them to their friends’ feelings.
+
+In terms of gender, according to a Pew Study opens in new window , girls were more likely than boys to say they are more informed about their friend’s lives (40% vs. 26% boys) and friends’ feelings (24% vs. 16% of boys).
+
+#### The good
+
+As mentioned before, one of the function of peers was to offer support. A Pew Study opens in new window supported this notion, and found that girls (73%) were more likely to receive support via social media, as compared to 63% of boys. While girls received more support, boys were not at a loss, and the majority of boys also said they benefitted socially online. Overall, 68% of teens reported gaining support via social media during tough times.
+
+#### The Bad
+
+Children and teens have limited self-regulation skills and are especially susceptible to peer pressure. This may result in cyberbullying, cliques formed online and sexual experimentation (e.g., sexting) (Patching, Hinduja, 2006; Christakis & Moreno, 2009).
+
+Cyberbullying is defined as “deliberate usage of digital media to communicate false, embarrassing, or hostile information about another person” (Ito et al., 2009). This is also the most common online risk for all teens, and in many cases, the victim of cyberbullying is also an aggressor. This is a peer-to-peer risk and can be very hard to track.
+
+If you would like, read the story of Amanda Todd, a young teen who committed suicide because of intense cyberbullying. Warning, some of this content may be disturbing to some readers.
+
+More than 50 % of teens report they had exchanged sexually explicit text messages, with or without photographic images, as minors. Many jurisdictions consider sexting among minors child pornography, a prosecutable offense, with jail time and sex offender registration (Strohmaier, Murphy & DeMatteo, 2014).
+
+### To Friend or not to Friend?
+
+Are you are worried about accepting someone’s friend request? What happens if you don’t really want to add them (e.g., Linkedin)? Do you worry when you notice you have been defriended? How do you feel?
+
+Research finds that while there are no social consequences for “de-friending” strangers, it matters for friends and acquaintances! Often people take this personally, and see it as being done on purpose (Ito et al., 2009). It is similar to being removed from someone’s face to face life, and many people experience upset when this occurs online.
+
+According to Ito and Colleagues (2009) “MySpace had a “Top 8” feature, in which users could rank the people that were most important in their life and separate them from the rest of their friends. This caused a lot of drama, because people would judge how important they were to someone else based on how they ranked, or if they made the ranking at all. An uneven ranking between two individuals could cause jealousies and question loyalties.”
+
+### Reasons for Friending
+
+    “[C]yber” relationships often arise because parents, out of fear for their children’s safety, no longer allow them to be “free range” to congregate in local parks, at malls, and on street corners…
+    (Ito, 2009)
+
+In fact, two-thirds (62%) of teens say they’ve shared their social media username with a brand new friend as a way to stay in touch.
+
+There are many reasons why we friend people online, including to:
+
+    connect with actual friends
+    connect with acquaintances, colleagues, etc.
+    avoid rejecting, save face, easier to say ‘yes’ (more important when reciprocity is required)
+    look popular
+    build fan base/audience
+    track conversations of interest
+    signal affinity with certain types of people
+    expand network to meet more people
+
+### Colliding Groups
+
+How do you manage various different or distinct groups online? What strategies do you use?
+
+There may be a case where you have numerous profiles, perhaps one that is visible to your parents, and another that is for your friends. It may be that cultural or familial expectations limit what people are willing to share online with their families, and therefore the interests and expectations of their family collide with the social requirements of other interpersonal groups.
+
+### Online Dating
+
+Online dating started in 1980s. At this point, sites were largely text based. Use was stigmatized and typically used by shy people who couldn’t meet people offline. More modern sites have evolved to now attempt to match users based on certain characteristics such as personality or interests (Scharlott & Christ, 1995).
+
+Attitudes towards online dating are changing. Over a 10 year period from 2005 to 2015, 44% of respondents felt that online dating was a good way to meet people compared to 59% in 2015. Perceptions of usage have also changed over time. Users of dating sites are now seen as less desperate than they were in the past (29% in 2005 to 23% in 2015).
+
+In the past, the average dating site user was around 40 years old. In the past two years, however, there has been a dramatic increase in users aged 18-24. In fact, this age group has almost triple in between 2013 and 2015. 
+
+There are sites for Christians, Jews, vegans, goths, emos, vegetarians, vampires and prisoners…and even ugly people.
+
+Is there anything wrong with having sites tailored to specific types of users? Some people seem to think so. Here is a short news clip from CNN about a billboard for an all white dating. What do you think?
+
+According to the Pew Internet Study (2015), approximately 30% of those who have used online dating never actually go on a date with someone! When it comes to marriage only a small percentage (5%) of people marry who they meet online.
+
+When asked if they seek advice or guidance from others about profile creation, 22% reported asking someone to help create or review their profile. Females were more likely to seek advice (30%) versus males (16%).
+
+Believe it or not, using online dating is not related to income or education. People who earn modest salaries are online, and so are those who make a lot of money. The same goes for education, there are high school drop outs all the way to PhDs. In terms of gender, both males and females post profiles online, males tend to visit the sites more frequently. Not surprisingly, divorcees are 3 times more likely to online date, and make up almost one third (27%) of the entire online dating demographic.
+
+Users have different reasons for online dating, but according to research here are the main motivators (Whitty & Carr, 2006):
+
+    it is an alternative to pubs or clubs
+    they are shy or reserved
+    they felt they had no other option
+    it is convenient
+    it is more privacy than face to face
+
+#### Stages of Online Dating
+
+    1. Attention - First, in the attention stage, we must attract someone through subtle nonverbal signals (i.e. photo or creative name). The problem is that when you don’t have a photo, you are less likely to attract another person online.
+    2. Recognition -  In the recognition stage, we let others or are notified by others that we have been noticed. This is the equivalent to online flirting where we may send or be sent winks, pokes or kisses.
+    3. Interaction - In the interaction stage, you converse online mostly for the purposes of verifying information and potentially setting up a meeting face to face.
+    4.  Face-to-Face meeting - During the face to face stage, daters determines if there will be another date. If they are compatible and there is chemistry, then chances are a future date will be arranged.
+    5. Resolution - During the final stage, resolution, daters may decide to pursue things further and continue seeing the person. It is not unreasonable that at the beginnings of a face to face relationships, online daters still maintain an active online dating profile. Once exclusivity is established, daters may then decide to delete or no longer access their dating profile.
+
+#### What users want
+
+Age and Attraction
+
+Christian Rudder (2014), one of the founders of the famous dating site OkCupid and lead of OkCupid’s data analytics team tracked trends from the site starting in 2009. What he found was astonishing.
+
+For females, their chronological age corresponds fairly closely to the age of men who look best to them. What this means is that if you are a 40 year old woman online dating, you will be most attracted to a man around the same age.
+
+For males however, this is not the case. Rudder found that a male’s chronological age was not at all related to the age of women they found the most attractive. In fact, men of all ages reported that women in between ages 20 to 24 were the most attractive. Even if a man is 50, he still claims to be attracted to 20 year old females.
+
+Wooderson’s Law - The trend for males to be attracted to younger females, regardless of their chronological age is called Wooderson’s Law. Here, a man’s age and sexual aims are independent (one changes while the other does not) (Alterovitz & Mendelsohn, 2011).
+
+#### Benefits of Online Dating
+
+There are quite a few pros related to online dating (Hitsch, Hortaçsu & Ariely, 2010).
+
+Access
+
+Certain sites make it easier to look for and find a particular type of dater with a specific orientation or lifestyle. In addition, online dating provides access to daters for those who live in isolated areas.
+Matching
+
+Modern dating sites now guide daters in the right direction, increasing the chance of finding a more compatible partner. E.g., people who have kids already.
+
+Convenience and Safety
+
+Online dating sites now make it easier to “test out” potentials first in a relatively safe setting. If you find you are no longer interested in someone, you can simply delete them. Perusing and engaging with other daters now also requires less time commitment due to the frequency and accessibility of profiles.
+
+There are many benefits to online dating, but unfortunately what we know is that 80% of online daters present an unrealistic image, whether this be related to height, weight or age. The interesting thing is that the older you are, the less likely you are to lie.
+
+#### Online Deception: Photographs
+
+Importance of Photographs
+
+    Photographs were identified as the single most deceptive element of the person's profile.
+    (Toma, 2008)
+
+Even though we know that people may present false or inaccurate photographic information in their profiles, this element is very important.
+
+On January 15, 2013 Ok Cupid initiated the “Love is Blind Day”. IN an effort to do something different, OK Cupid removed profile photos for a few hours at starting at 9am. During the few hours that the pictures were removed, there was a drastic dip in conversations started online (Rudder, 2014). In fact, new conversations started per hour dropped from around 30,000 to 4,000 during this time.
+
+Main Discrepancies
+
+There are typically two main discrepancies when it comes to photos in online dating profiles (Hancock & Toma, 2009).
+
+    Related to physical characteristics, such as age, weight, hair color.
+    Related to use of photographic processes, such as retouching, cropping, or hiring professional photographers.
+
+Research has found that female photographs were less accurate (or more deceptive) (48%) compared to male photographs (15%). Female photos contain more physical discrepancies. They may display a photo that is much older and therefore conveys a younger age, hair style or skin appearance. Females also employ more photographic process discrepancies involving retouching and professional photography. The other interesting finding was that female photos were on average 17 months old, whereas male photos were only 6 months old.
+
+#### Gendered Deception
+
+Different Lies
+
+Research has found that males and females tend to lie about different aspects in their online dating profiles. Here is a breakdown of these gender differences in deception (Hancock, Toma & Ellison, 2007; Hitsch, Hostacsu & Ariely, 2010; Toma, Hancock & Ellison, 2008).
+
+Males
+
+    Emphasize status – report 20-40% higher income
+    Title – Embellish their job title and how many people they supervise
+    Twice as likely as women to lie about height (22% up to 50% lied)
+    Weight – subtract 1.5 - 8.5 lbs on average
+    Age – 30% of men lied +- 2 years, but as much as 10 years!
+    Lie about type of car they drive, where they have travelled and their financial status
+
+
+Females
+
+    Emphasized physical attractiveness
+    Title – 32 % of women DEMOTE themselves
+    Weight – subtract 1.5 - 8.5 lbs on average
+    Age – 17% of women lie and round down to nearest 5 year increment (e.g., if you’re 38, round down to 35)
+
+
